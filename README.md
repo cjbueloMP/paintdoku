@@ -5,9 +5,9 @@ Paintdoku is a puzzle solved similarly to a sudoku, but instead of writing numbe
 
 Create your own by cloning this repository and then in terminal entering
 
-'''
+```
 python paintdoku.py sample.jpg
-'''
+```
 
 replace sample.jpg with your picture and try
 
